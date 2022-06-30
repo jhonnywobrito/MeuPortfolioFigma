@@ -73,3 +73,22 @@ body {
     justify-content: center;
 }
 
+#footer h3 {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.footer-main li {
+    background-color: aliceblue;
+    color: #000;
+    border-radius: 20px;
+    margin: 24px;
+    padding: 6px;
+    padding-right: 24px;
+}
+
+.footer-main a {
+    text-decoration: none;
+}
+
