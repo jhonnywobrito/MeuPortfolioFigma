@@ -80,8 +80,8 @@ body {
 }
 
 .footer-main li {
-    background-color: aliceblue;
-    color: #000;
+    background-color: rgb(17, 17, 19);
+    color: rgb(255, 255, 255);
     border-radius: 20px;
     margin: 24px;
     padding: 6px;
@@ -90,5 +90,6 @@ body {
 
 .footer-main a {
     text-decoration: none;
+    color: rgb(235, 246, 255);
 }
 
