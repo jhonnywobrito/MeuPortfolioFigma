@@ -1,4 +1,4 @@
-ACESSE: https://jhonnywhoo.github.io/MeuPortfolioFigma/
+ACESSE: https://jhonnywobrito.github.io/MeuPortfolioFigma/
 PARA VER O CONTEÚDO DA PÁGINA!
 
 MeuPortifolioFigma
